@@ -86,5 +86,7 @@ Authentication handled via Cognito (JWT Authorizer)
 <img width="1668" height="864" alt="image" src="https://github.com/user-attachments/assets/a7327fb3-03d1-4f3f-bc22-f34ccf65c234" />
 <img width="1536" height="1024" alt="aws1" src="https://github.com/user-attachments/assets/ebe440c6-3494-4b2a-bd2a-584839703ead" />
 <img width="1668" height="864" alt="Screenshot 2026-04-28 112736" src="https://github.com/user-attachments/assets/58ce1930-f24d-43eb-a1c7-89c5dbf24a10" />
+<img width="1912" height="846" alt="Screenshot 2026-05-10 194816" src="https://github.com/user-attachments/assets/89e3891b-6b6e-4e14-8aca-52e32ce27ec2" />
+<img width="1919" height="685" alt="Screenshot 2026-05-10 195540" src="https://github.com/user-attachments/assets/0d516558-5b74-41d1-82dc-0eedcb5336ce" />
 
 
